@@ -1,5 +1,5 @@
 $result = get-content inputs | foreach {   ($_ -split ' ')}
-$countFirstOnes = $countSecondOnes = $gammaRate = $epsilonRate = 0
+$gammaRate = $epsilonRate = 0
 $pos = [int[]]::new(12)
 $halfRes=$result.Length/2
 
