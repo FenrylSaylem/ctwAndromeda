@@ -5,4 +5,5 @@ Participants at this time:
 * excEL (Using... Excel, surprise ;) )
 * Darren (in his own repository, using C#)
 * Rena (using JavaScript)
+* Dr0nhp (using JS / TS)
 * Jan Schmutz (me, using Powershell)
